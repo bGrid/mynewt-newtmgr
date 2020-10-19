@@ -16,7 +16,7 @@ require (
 	github.com/runtimeco/go-coap v0.0.0-20190911184520-8e5532820fc0
 	github.com/sirupsen/logrus v1.6.0
 	github.com/spf13/cast v1.3.1
-	github.com/spf13/cobra v1.0.0
+	github.com/spf13/cobra v1.1.1
 	github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07
 	github.com/ugorji/go/codec v1.1.8
 	golang.org/x/net v0.0.0-20200602114024-627f9648deb9
