@@ -18,7 +18,7 @@ require (
 	github.com/spf13/cast v1.3.1
 	github.com/spf13/cobra v1.0.0
 	github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07
-	github.com/ugorji/go/codec v1.1.8
+	github.com/ugorji/go/codec v1.2.3
 	golang.org/x/net v0.0.0-20200602114024-627f9648deb9
 	gopkg.in/abiosoft/ishell.v2 v2.0.0
 	gopkg.in/cheggaaa/pb.v1 v1.0.28
