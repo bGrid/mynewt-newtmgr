@@ -141,6 +141,7 @@ github.com/rigado/ble v0.5.11 h1:TaEuxGPlBcWDFjLI5KizrvgN6wnCRU8UHJo5EEAfy+c=
 github.com/rigado/ble v0.5.11/go.mod h1:LWOOCnDnxCUKUGROxz9P5UR1++ecCgV8H+RB4PWavHo=
 github.com/rigado/ble v0.5.12 h1:akyhG3a7vAQmJQVEgcZM0jRRBZyURCR8hsUZWTFYbVs=
 github.com/rigado/ble v0.5.12/go.mod h1:LWOOCnDnxCUKUGROxz9P5UR1++ecCgV8H+RB4PWavHo=
+github.com/rigado/ble v0.6.2/go.mod h1:LWOOCnDnxCUKUGROxz9P5UR1++ecCgV8H+RB4PWavHo=
 github.com/rogpeppe/fastuuid v0.0.0-20150106093220-6724a57986af/go.mod h1:XWv6SoW27p1b0cqNHllgS5HIMJraePCO15w5zCzIWYg=
 github.com/runtimeco/go-coap v0.0.0-20190911184520-8e5532820fc0 h1:WOVbcRe5kFuLbhZdyz8PKVR6L22C6I48fWIUS5ucpGY=
 github.com/runtimeco/go-coap v0.0.0-20190911184520-8e5532820fc0/go.mod h1:x/rLuxedbWFDN497ZirUaDklkWz6JhZLjGdgurMysxM=

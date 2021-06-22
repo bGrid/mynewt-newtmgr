@@ -12,7 +12,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pkg/errors v0.9.1
-	github.com/rigado/ble v0.5.12
+	github.com/rigado/ble v0.6.2
 	github.com/runtimeco/go-coap v0.0.0-20190911184520-8e5532820fc0
 	github.com/sirupsen/logrus v1.6.0
 	github.com/spf13/cast v1.3.1
